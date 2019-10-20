@@ -25,3 +25,9 @@
 # <font face='华文中宋' color='#009900'>小结
 
 <font face='华文中宋' size=3 color='red'>感谢您的阅读~~
+
+Git is a distributed version control system.
+Git is free software.
+
+git push -u origin master
+
